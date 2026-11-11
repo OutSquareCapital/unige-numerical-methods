@@ -10,3 +10,4 @@ wheels/
 .venv
 # temp files
 t.py
+docs/*.png
